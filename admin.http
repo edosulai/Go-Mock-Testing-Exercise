@@ -1,0 +1,26 @@
+# POST http://localhost:3000/users/register
+# content-type: application/json
+
+# {
+#   "first_name" : "sdasd",   
+#   "email" : "urang@domain.com",
+#   "password" : "denyangtau",
+#   "role": "admin"
+# }
+
+# POST http://localhost:3000/users/login
+# content-type: application/json
+
+# {
+#   "email" : "urang@domain.com",
+#   "password" : "denyangtau"
+# }
+
+# POST http://localhost:3000/products
+# content-type: application/json
+# authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVyYW5nQGRvbWFpbi5jb20iLCJpZCI6MX0.dDWgQSHiv8RuX3kXEfBU9YTwI_q2y4p768Vsoz4raPU
+
+# {
+#   "title" : "eesdsk",
+#   "description": "esdsde"
+# }

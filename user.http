@@ -1,0 +1,27 @@
+# POST http://localhost:3000/users/register
+# content-type: application/json
+
+# {
+#   "first_name" : "sdasd",  
+#   "email" : "user@domain.com",
+#   "password" : "denyangtau",
+#   "role": "user"
+# }
+
+# POST http://localhost:3000/users/login
+# content-type: application/json
+
+# {
+#   "email" : "user@domain.com",
+#   "password" : "denyangtau"
+# }
+
+# POST http://localhost:3000/products
+# content-type: application/json
+# authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAZG9tYWluLmNvbSIsImlkIjoyfQ.Ot965yPoK0BmOQJqep5_0aKkc-6xLj-fIt_Tncx3JbY
+
+# {
+#   "title" : "ciriask",
+#   "description": "ee"
+# }
+
